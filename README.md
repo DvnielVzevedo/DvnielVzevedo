@@ -1,7 +1,8 @@
 <div style="display: inline_block">
   <h1>O inicio da minha jornada no GitHub</h1>
   <p>Opa! Tudo bem? Me chamo Daniel, tenho 25 anos e atualmente trabalhando na parte de infraestrutura e desenvolvendo workflows no Fluig. Quero migrar para o mercado de desenvolvimento, aqui vou deixar as principais linguagens de desenvolvimento, marcação e bancos de dados que estou estudando e utilizando em meus estudos e sistemas que ja estão rodando em produção.</p>
-  <p>Estou começando a usar o GitHub em 02/2025, vou deixar essas informações para ir acompanhando minha evolução, acompanhe comigo:</p>
+  <p>Estou começando a usar o GitHub em 02/2025 e estou montando um sistema para uso pessoal.</p>
+  <p>Vou deixar essas informações para ir acompanhando minha evolução, acompanhe comigo:</p>
   <img src="https://github-readme-stats.vercel.app/api?username=DvnielVzevedo&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvnielVzevedo&layout=compact&theme=dracula">
   <h2></h2></br>
